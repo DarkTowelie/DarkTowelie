@@ -35,3 +35,6 @@ I like
 - [Three-dimensional models of geoenvironmental parameters](https://download.atlantis-press.com/article/25856148.pdf)
 - [Влияние репрезентативности исходных данных на результаты моделирования методом двойного крайгинга](http://izvestiya.tpu.ru/archive/article/view/53)
 - [Адаптация метода двойного крайгинга к структурным факторам геологической среды](https://journals.nstu.ru/vestnik/download_article?id=23421)
+
+### Contacts
+- [<img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1200px-VK.com-logo.svg.png" />](https://vk.com/id492426566)
