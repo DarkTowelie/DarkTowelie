@@ -12,7 +12,9 @@ I like
 [<img align="left" alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" />](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
 [<img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />](https://docs.microsoft.com/ru-ru/cpp/?view=vs-2019)
 
+<br>
 ---
+<br>
 
 ### My knowledge
 - Mathematical statistics
@@ -21,9 +23,11 @@ I like
 - Numerical methods
 - Mathematical modeling
 
+<br>
 ---
+<br>
 
 ### My publications
--[Three-dimensional models of geoenvironmental parameters](https://download.atlantis-press.com/article/25856148.pdf)
--[Влияние репрезентативности исходных данных на результаты моделирования методом двойного крайгинга](http://izvestiya.tpu.ru/archive/article/view/53)
--[Адаптация метода двойного крайгинга к структурным факторам геологической среды](https://journals.nstu.ru/vestnik/download_article?id=23421)
+- [Three-dimensional models of geoenvironmental parameters](https://download.atlantis-press.com/article/25856148.pdf)
+- [Влияние репрезентативности исходных данных на результаты моделирования методом двойного крайгинга](http://izvestiya.tpu.ru/archive/article/view/53)
+- [Адаптация метода двойного крайгинга к структурным факторам геологической среды](https://journals.nstu.ru/vestnik/download_article?id=23421)
