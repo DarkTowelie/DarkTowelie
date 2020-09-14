@@ -37,4 +37,4 @@ I like
 - [Адаптация метода двойного крайгинга к структурным факторам геологической среды](https://journals.nstu.ru/vestnik/download_article?id=23421)
 
 ### Contacts
-- [<img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1200px-VK.com-logo.svg.png" />](https://vk.com/id492426566)
+[<img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1200px-VK.com-logo.svg.png" />](https://vk.com/id492426566)
