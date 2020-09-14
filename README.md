@@ -13,6 +13,7 @@ I like
 [<img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />](https://docs.microsoft.com/ru-ru/cpp/?view=vs-2019)
 
 <br>
+<br>
 
 ### My knowledge
 - Mathematical statistics
