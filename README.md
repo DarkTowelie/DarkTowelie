@@ -1,11 +1,11 @@
 ## Hello, I'm [DarkToweilie]
 
 I like
-- programming :computer
-- mathematic :bar_chart
-- dancing :dancers
-- video games :video_game
-- reading :closed_book
+- :computer: programming 
+- :bar_chart: mathematic 
+- :dancers: dancing 
+- :video_game: video games 
+- :closed_book: reading 
 
 ### My skills and tools
 
