@@ -22,11 +22,13 @@ I like
 <br>
 <br>
 
-<br>
-<br>
 
 ### My CodeWars Badge
-[<img align="left" alt="C++" width="60px" src="https://www.codewars.com/users/DarkTowelie/badges/large" />](https://www.codewars.com/users/DarkTowelie/badges/large//)
+[<img align="left" alt="C++" width="350px" src="https://www.codewars.com/users/DarkTowelie/badges/large" />](https://www.codewars.com/users/DarkTowelie/badges/large//)
+
+
+<br>
+<br>
 
 ### My knowledge
 - Mathematical statistics
