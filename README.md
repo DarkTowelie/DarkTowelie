@@ -22,6 +22,12 @@ I like
 <br>
 <br>
 
+<br>
+<br>
+
+### My CodeWars Badge
+[<img align="left" alt="C++" width="60px" src="https://www.codewars.com/users/DarkTowelie/badges/large" />](https://www.codewars.com/users/DarkTowelie/badges/large//)
+
 ### My knowledge
 - Mathematical statistics
 - Linear algebra
