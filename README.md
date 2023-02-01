@@ -52,3 +52,5 @@ I like
 
 [<img align="left" alt="C++" width="40px" src="https://play-lh.googleusercontent.com/kLVaTwis1K_rhrn0t0pY9rHNOHcBQl1YJHi845-PhaREajRS3-I1FdyAwRedFgcPo1Y" />](https://www.webofscience.com/wos/author/record/HLP-6628-2023)
 
+[<img align="left" alt="C++" width="40px" src="https://old.suitt.edu.ua/wp-content/uploads/2018/11/scopus_0.png" />](https://www.scopus.com/authid/detail.uri?authorId=57205617739)
+
