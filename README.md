@@ -54,3 +54,4 @@ I like
 
 [<img align="left" alt="C++" width="40px" src="https://old.suitt.edu.ua/wp-content/uploads/2018/11/scopus_0.png" />](https://www.scopus.com/authid/detail.uri?authorId=57205617739)
 
+[<img align="left" alt="C++" width="40px" src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/202524/images/RG.png" />](https://www.researchgate.net/profile/Valeriy-Shestakov)
