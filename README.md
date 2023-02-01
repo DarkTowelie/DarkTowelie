@@ -48,6 +48,7 @@ I like
 
 
 ### Contacts
-[<img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1200px-VK.com-logo.svg.png" />](https://vk.com/id492426566)
+[<img align="left" alt="VK" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1200px-VK.com-logo.svg.png" />](https://vk.com/id492426566)
 
-ResearcherID Web of Science HLP-6628-2023
+[<img align="left" alt="C++" width="40px" src="https://clarivate.com/cis/wp-content/themes/clarivate/src/img/logo.svg?v=2.4.154" />](https://www.webofscience.com/wos/author/record/HLP-6628-2023)
+
